@@ -15,6 +15,7 @@ Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipe
 - It consists of a main index page linked with three recipes pages.
 - Responsive for both Desktop and Mobile.
 
+
 ## What was learned
 
 In this project I tried to use all the HTML and CSS knowledge that I have acquired in the foundations course:
@@ -22,6 +23,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 - How to build a simple website and using Git.
 - How to add HTML boilerplate and elements to the index files.
 - Finally, link with CSS file and style with various CSS properties.
+
 
 ## Attributes
 
