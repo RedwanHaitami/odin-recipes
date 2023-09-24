@@ -1,3 +1,5 @@
+![the project preview](./images/preview.png)
+
 # Odin Recipes
 
 This is my project as a basic recipe website in the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
@@ -6,8 +8,6 @@ This is my project as a basic recipe website in the Foundations course from [The
 
 Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)
 
-
-![the project preview](./images/preview.png)
 
 ## Description
 
@@ -25,7 +25,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 - Finally, link with CSS file and style with various CSS properties.
 
 
-## Attributes
+## Attribution
 
 - Images by istockphoto
 - Favicon by flaticon
