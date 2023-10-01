@@ -1,8 +1,10 @@
-![the project preview](./images/preview.png)
+
 
 # Odin Recipes
 
 This is my project as a basic recipe website in the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
+
+![the project preview](./images/preview.png)
 
 ## View Demo
 
