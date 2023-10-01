@@ -2,12 +2,12 @@
 
 # Odin Recipes
 
-This is my project as a basic recipe website in the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
+This is my project as a basic recipe website of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Preview
 ![the project preview](./images/preview.png)
 
-## View Demo
+## Live Demo
 
 Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)
 
