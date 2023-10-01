@@ -3,14 +3,17 @@
 # Odin Recipes
 
 This is my a basic recipes website project of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
-
+</br>
+</br>
 ## Preview
 ![the project preview](./images/preview.png)
-
+</br>
+</br>
 ## Live Demo
 
 Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)
-
+</br>
+</br>
 ## About this project
 
 - This project built with semantic HTML5 markup and CSS3 custom propeties.
@@ -23,7 +26,7 @@ Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipe
   - Under the ingredients, there is "steps" heading followed by an **Ordered list** of steps for making the dish.
     
 - Finally, I tried to make this project **responsive** for both desktop and mobile devices.
-
+</br>
 
 ## What was learned
 
@@ -32,7 +35,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 - How to build a simple website and using Git.
 - How to add HTML boilerplate and elements to the index files.
 - Link with CSS file and style all with various CSS properties.
-
+</br>
 
 ## Attributions
 
