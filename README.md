@@ -2,7 +2,7 @@
 
 # Odin Recipes
 
-This is my project as a basic recipe website of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
+This is my recipes website project of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Preview
 ![the project preview](./images/preview.png)
