@@ -2,17 +2,14 @@
 
 # Odin Recipes
 
-This is my a basic recipes website project of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
-</br>
+This is my a basic recipes website project of the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).</br>
 </br>
 ## Preview
-![the project preview](./images/preview.png)
-</br>
+![the project preview](./images/preview.png)</br>
 </br>
 ## Live Demo
 
-Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)
-</br>
+Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)</br>
 </br>
 ## About this project
 
@@ -25,7 +22,7 @@ Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipe
   - "Ingredients" heading, followed by an **Unordered list** of the indegredients for the recipe.
   - Under the ingredients, there is "steps" heading followed by an **Ordered list** of steps for making the dish.
     
-- Finally, I tried to make this project **responsive** for both desktop and mobile devices.
+- Finally, I tried to make this project **responsive** for both desktop and mobile devices.</br>
 </br>
 
 ## What was learned
@@ -34,7 +31,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 
 - How to build a simple website and using Git.
 - How to add HTML boilerplate and elements to the index files.
-- Link with CSS file and style all with various CSS properties.
+- Link with CSS file and style all with various CSS properties.</br>
 </br>
 
 ## Attributions
