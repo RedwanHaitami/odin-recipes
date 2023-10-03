@@ -20,9 +20,8 @@ Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipe
   - An image of the dish under `h1` heading.
   - Two paragraphs describing the recipe.
   - "Ingredients" heading, followed by an **Unordered list** of the indegredients for the recipe.
-  - Under the ingredients, there is "steps" heading followed by an **Ordered list** of steps for making the dish.
+  - Under the ingredients, there is "steps" heading followed by an **Ordered list** of steps for making the dish.</br>
     
-- Finally, I tried to make this project **responsive** for both desktop and mobile devices.</br>
 </br>
 
 ## What was learned
