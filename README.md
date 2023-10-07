@@ -30,7 +30,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 
 - How to build a simple website and using Git.
 - How to add HTML boilerplate and elements to the index files.
-- Link with CSS file and style all with various CSS properties.</br>
+- Link with the main CSS file and style all with various CSS properties.</br>
 </br>
 
 ## Attributions
