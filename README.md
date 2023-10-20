@@ -1,8 +1,8 @@
 
 
-# Moroccan Tagine
+# Odin Recipes
 
-A basic recipes website project created for the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).</br>
+Moroccan Tagine recipes website project created for the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).</br>
 </br>
 ## Preview
 ![the project preview](./images/preview.png)</br>
