@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> d8ae2b55ff72f3c7023545b7276d3602d64ea48c
 # Odin Recipes
 
 Moroccan Tagine recipes website project created for the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).</br>
