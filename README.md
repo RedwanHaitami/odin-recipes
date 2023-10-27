@@ -1,14 +1,14 @@
 
 # Odin Recipes
 
-Moroccan Tagine recipes website project created for the Foundations course from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).</br>
+Moroccan Tagine recipes website project created for The Odin Project Foundations course.</br>
 </br>
 ## Preview
 ![the project preview](./images/preview.png)</br>
 </br>
 ## Live Demo
 
-Check it out on GitHub Pages: [Here](https://redwanhaitami.github.io/odin-recipes/)</br>
+Check it out on: [GitHub webpages](https://redwanhaitami.github.io/odin-recipes/)</br>
 </br>
 ## About this project
 
@@ -32,7 +32,7 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 - How to link HTML index page with the main CSS file and style all with various CSS properties.</br>
 </br>
 
-## Attributions
+### Attributions
 
 - Images by [istockphoto](https://www.istockphoto.com/)
 - Favicon by [flaticon](https://www.flaticon.com/)
