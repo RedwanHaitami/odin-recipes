@@ -11,13 +11,18 @@ Moroccan Tagine recipes website project created for The Odin Project Foundations
 Check it out on: [GitHub webpages](https://redwanhaitami.github.io/odin-recipes/)</br>
 </br>
 ## Objective
-<br>
-Build a basic recipe website.
+
+Build a basic recipe website.<br>
 <br>
 
 ## Description
 
-- The project consists of a main index page about the Moroccan Tagine as a main menu with links of three recipes pages.
+- The project consists of a main index page about the Moroccan Tagine as a main menu with:
+  
+  - `h1` heading “Odin Recipes”.
+  - `P` element as a description.
+  - links of three recipes pages.
+    
 - Each recipe page has:
   
   - An image of the dish under `h1` heading.
