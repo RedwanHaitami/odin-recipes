@@ -234,6 +234,7 @@ main .description {
     font-size: 1.125rem;
     margin: 40px 0;
     line-height: 1.8;
+    text-align: center;
 }
 main .details {
     margin-bottom: 40px;
