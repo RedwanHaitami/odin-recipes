@@ -27,7 +27,7 @@ Build a basic recipe website.<br>
   
   - An image of the dish under `h1` heading.
   - Two paragraphs describing the recipe.
-  - "Ingredients" heading, followed by an **Unordered list** of the indegredients for the recipe.
+  - "Ingredients" heading, followed by an **Unordered list** of the ingredients for the recipe.
   - Under the ingredients, there is "steps" heading followed by an **Ordered list** of steps for making the dish.</br>
     
 </br>
@@ -40,9 +40,3 @@ In this project I tried to use all the HTML and CSS knowledge that I have acquir
 - How to add HTML boilerplate and elements to the index files.
 - How to link HTML index page with the main CSS file and style all with various CSS properties.</br>
 </br>
-
-### Attributions
-
-- Images by [istockphoto](https://www.istockphoto.com/)
-- Favicon by [flaticon](https://www.flaticon.com/)
-
